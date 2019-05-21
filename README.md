@@ -9,5 +9,7 @@ Check the video: https://youtu.be/wM-BXt1r3Hs
 
 About the files:
 Dice.py contains my worksheet of the model training
+
 stream.py script is the for the pc, which makes the classification during the process
+
 streaming_for_rasp.py is the script that runs on the raspberry pi modul
